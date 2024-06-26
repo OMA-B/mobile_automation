@@ -1,0 +1,12 @@
+[
+    {
+        "user": "USER1",
+        "device": "emulator-5554",
+        "appium_port": "4723"
+    },
+    {
+        "user": "USER2",
+        "device": "emulator-5556",
+        "appium_port": "4724"
+    }
+]

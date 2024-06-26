@@ -1,0 +1,82 @@
+[
+    {
+        "name_of_product": "FARINHA TRIGO ORQUIDEA 1kg ESP",
+        "price": "R$ 3.79",
+        "name_of_supplier": "AZENHA",
+        "address": "AV DA AZENHA , 1204 - AZENHA - Porto Alegre -",
+        "telefone": "5131033515",
+        "date": "25/06/2024 23:42"
+    },
+    {
+        "name_of_product": "FAR TRIGO ORQUIDEA T1 1KG",
+        "price": "R$ 3.98",
+        "name_of_supplier": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA",
+        "address": "AV JUCA BATISTA , 4255 - HIPICA - PORTO ALEGRE -",
+        "telefone": "5140041112",
+        "date": "25/06/2024 20:30"
+    },
+    {
+        "name_of_product": "FARINHA TRIGO ORQUIDEA 1KG",
+        "price": "R$ 4.19",
+        "name_of_supplier": "LJ 31 PORTO ALEGRE BELA VISTA",
+        "address": "AV DOUTOR NILO PECANHA , 2061 - CENTRO - PORTO ALEGRE -",
+        "telefone": "5134070059",
+        "date": "26/06/2024 1:12"
+    },
+    {
+        "name_of_product": "FARINHA TRIGO ORQUID",
+        "price": "R$ 4.39",
+        "name_of_supplier": "SUPER KAN LTDA CENTER",
+        "address": "AV JOAO ANTONIO SILVEIRA , 1335 - RESTINGA - PORTO ALEGRE -",
+        "telefone": "",
+        "date": "26/06/2024 1:12"
+    },
+    {
+        "name_of_product": "FAR ORQU ESP 1 KG",
+        "price": "R$ 4.39",
+        "name_of_supplier": "GUARAPARI COM. GEN. ALIM. LTDA (STA ISA)",
+        "address": "AV.LIBERDADE , 1381 - SANTA ISABEL - VIAMAO -",
+        "telefone": "",
+        "date": "25/06/2024 23:39"
+    },
+    {
+        "name_of_product": "FARINHA TRIGO ORQUID",
+        "price": "R$ 4.49",
+        "name_of_supplier": "CLAUDIO ROBERTO LEITE DE OLIVEIRA E CIA LTDA-FL02",
+        "address": "ROD RS 040 , 19329 - AGUAS CLARAS - VIAMAO -",
+        "telefone": "",
+        "date": "25/06/2024 12:03"
+    },
+    {
+        "name_of_product": "FARINHA TRIGO ORQUIDEA 1KG",
+        "price": "R$ 4.49",
+        "name_of_supplier": "SUPERMERCADO ALIANCA",
+        "address": "Rua Conde de Marfim , 105 - Viamopolis - Viamao -",
+        "telefone": "5130457554",
+        "date": "24/06/2024 20:44"
+    },
+    {
+        "name_of_product": "FAR DE TRIGO ORQUIDEA 1KG",
+        "price": "R$ 4.69",
+        "name_of_supplier": "MCX SUPERMERCADO LTDA",
+        "address": "MAJOR TITO , 484 - BELEM VELHO - Porto Alegre -",
+        "telefone": "32452888",
+        "date": "25/06/2024 14:49"
+    },
+    {
+        "name_of_product": "FARINHA TRIGO ORQUID",
+        "price": "R$ 4.74",
+        "name_of_supplier": "DECIO OLIVEIRA SUPERMERCADOS LTDA",
+        "address": "AV DEPUTADO ADAO PRETTO , 491 - LOMBA DO PINHEIRO - PORTO ALEGRE -",
+        "telefone": "",
+        "date": "25/06/2024 0:07"
+    },
+    {
+        "name_of_product": "FARINHA DE TRIGO ORQUIDEA 1KG",
+        "price": "R$ 4.75",
+        "name_of_supplier": "MINIMERCADO ACOUGUE PADARIA AGNES LTDA EPP",
+        "address": "RUA REINALDO MULLER 321 , 0 - PONTA GROSSA - Porto Alegre -",
+        "telefone": "",
+        "date": "22/06/2024 14:56"
+    }
+]

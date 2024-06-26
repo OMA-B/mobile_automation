@@ -1,0 +1,34 @@
+[
+    {
+      "sender": "USER1",
+      "message": "Hi there! How are you doing?"
+    },
+    {
+      "sender": "USER2",
+      "message": "Hey! I'm doing well, thanks for asking. How about you?"
+    },
+    {
+      "sender": "USER1",
+      "message": "I'm good too, just catching up on some work. Have you watched the latest episode of that TV series we talked about?"
+    },
+    {
+      "sender": "USER2",
+      "message": "Yes, I did! It was amazing, wasn't it? I can't wait for the next one."
+    },
+    {
+      "sender": "USER1",
+      "message": "Totally agree! The suspense at the end left me on the edge of my seat."
+    },
+    {
+      "sender": "USER2",
+      "message": "I know, right? I couldn't believe it when..."
+    },
+    {
+      "sender": "USER2",
+      "message": "Sorry, I have to go now. Talk to you later!"
+    },
+    {
+      "sender": "USER1",
+      "message": "No problem, catch you later!"
+    }
+]  

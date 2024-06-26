@@ -1,0 +1,82 @@
+[
+    {
+        "name_of_product": "ACUCAR REF BARRA 1KG",
+        "price": "R$ 3.79",
+        "name_of_supplier": "WMS SUPERMERCADOS DO BRASIL LTDA",
+        "address": "Rua Vicente da Fontoura , 1135 - Santana - Porto Alegre -",
+        "telefone": "",
+        "date": "22/06/2024 21:38"
+    },
+    {
+        "name_of_product": "ACUCAR REF BARRA 1KG",
+        "price": "R$ 3.79",
+        "name_of_supplier": "NMD - MENINO DEUS",
+        "address": "AV JOSE DE ALENCAR 998 , 0 - MENINO DEUS - PORTO ALEGRE -",
+        "telefone": "999999999",
+        "date": "25/06/2024 23:47"
+    },
+    {
+        "name_of_product": "ACUCAR REF BARRA 1KG",
+        "price": "R$ 3.79",
+        "name_of_supplier": "NCB - CIDADE BAIXA",
+        "address": "AV AURELIANO FIGUEIREDO PINTO 789 , 0 - CIDADE BAIXA - PORTO ALEGRE -",
+        "telefone": "999999999",
+        "date": "26/06/2024 0:09"
+    },
+    {
+        "name_of_product": "ACUC REF DA BARRA 1K",
+        "price": "R$ 4.19",
+        "name_of_supplier": "Sams Clube Cristal",
+        "address": "Av. Diario de Noticias , 500 - Cristal - Porto Alegre -",
+        "telefone": "40205054",
+        "date": "26/06/2024 1:24"
+    },
+    {
+        "name_of_product": "ACUCAR DA BARRA 1KG",
+        "price": "R$ 4.29",
+        "name_of_supplier": "MH SUPERMERCADO LTDA",
+        "address": "RUA FERNANDO PESSOA , 425 - VILA NOVA - Porto Alegre -",
+        "telefone": "5130225862",
+        "date": "22/06/2024 21:00"
+    },
+    {
+        "name_of_product": "ACUCAR DA BARRA 1KG",
+        "price": "R$ 4.29",
+        "name_of_supplier": "TEUTONIA SUPERMERCADO MATRIZ",
+        "address": "RUA GENERAL RONDON , 1701 - TRISTEZA - Porto Alegre -",
+        "telefone": "5130225862",
+        "date": "25/06/2024 21:13"
+    },
+    {
+        "name_of_product": "ACUCAR REFINADO DABA",
+        "price": "R$ 4.89",
+        "name_of_supplier": "SUPER KAN LTDA JOAO",
+        "address": "ESTRADA JO\u00c3O ANT\u00d4NIO DA SILVEIRA , 1795 - RESTINGA - PORTO ALEGRE -",
+        "telefone": "",
+        "date": "25/06/2024 22:18"
+    },
+    {
+        "name_of_product": "ACUCAR DABARRA 1KG REFINADO",
+        "price": "R$ 4.39",
+        "name_of_supplier": "SUPERMERCADO DRAGHETTI LTDA",
+        "address": "RUA FRANCISCO CARNEIRO DA ROCHA , 75 - VILA SAO JOSE - PORTO ALEGRE -",
+        "telefone": "5133181242",
+        "date": "26/06/2024 0:24"
+    },
+    {
+        "name_of_product": "ACUC.REF.DA BARRA",
+        "price": "R$ 4.45",
+        "name_of_supplier": "PORTO ALEGRE VILA NOVA",
+        "address": "AV EDUARDO PRADO , 330 - VILA NOVA - PORTO ALEGRE -",
+        "telefone": "",
+        "date": "25/06/2024 23:53"
+    },
+    {
+        "name_of_product": "ACUCAR REFINADO DABA",
+        "price": "R$ 4.89",
+        "name_of_supplier": "SUPER KAN LTDA NILO",
+        "address": "AV. NILO WULFF , 970 - RESTINGA NOVA - PORTO ALEGRE -",
+        "telefone": "",
+        "date": "25/06/2024 21:34"
+    }
+]

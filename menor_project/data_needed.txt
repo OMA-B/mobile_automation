@@ -1,0 +1,15 @@
+name of product
+price
+name of supplier
+address
+telephone (if available)
+phone number
+date
+
+
+
+RULEs:
+
+-- supplier must be unique
+-- a required amount needs to be reached if less than the total search results
+-- data will be returned in json format
